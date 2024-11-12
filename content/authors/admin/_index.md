@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr. Sajid Muhaimin Choudhury
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Dr. Sajid Muhaimin Choudhury
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sajid Muhaimin
+last_name: Choudhury
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ⚡
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,73 +20,71 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
-
+role: Associate Professor
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Department of EEE, BUET
+    url: https://sajid.buet.ac.bd/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:sajid@eee.buet.ac.bd'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/sajidbuet
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/sajidmc
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=Fu8Hkb4AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-0216-7125
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+  - Nanophotonics
+  - Quantum Computing
+  - Embedded Systems
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Electrical and Computer Engineerign
+    institution: Purdue University
+    date_start: 2013-08-15
+    date_end: 2019-08-05
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Wavefront Manipulation with Metasurface based on New Materials_. Supervised by [Prof Alexandra Boltasseva](https://aeb.purue.edu). 
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://hammer.purdue.edu/articles/thesis/WAVEFRONT_MANIPULATION_WITH_METASURFACES_BASED_ON_NEW_MATERIALS/8866019/1/files/16254185.pdf'
+  - area: MSc Eng Electrical and Electronics
+    institution: Bangladesh University of Engineering and Technology (BUET)
+    date_start: 2009-11-01
+    date_end: 2011-11-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.75/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Electrical and Electronic Engineering
+    institution: Bangladesh University of Engineering and Technology (BUET)
+    date_start: 2004-12-11
+    date_end: 2009-08-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.94/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Associate Professor
+    company_name: Department of EEE, BUET
+    company_url: 'https://eee.buet.ac.bd/'
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
